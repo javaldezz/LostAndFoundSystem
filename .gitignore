@@ -1,0 +1,4 @@
+config/application.properties
+application.properties
+bin/application.properties
+**/application.properties
